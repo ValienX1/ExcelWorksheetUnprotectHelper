@@ -1,0 +1,18 @@
+﻿<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <FontFamily x:Key="FontAwesome">pack://application;,,,/Resources/Fonts/#Font Awesome 5 Free Solid</FontFamily>
+    <FontFamily x:Key="MainFont">Calibri</FontFamily>
+
+    <system:Double x:Key="XSmall">10</system:Double>
+    <system:Double x:Key="Small">13</system:Double>
+    <system:Double x:Key="Medium">20</system:Double>
+    <system:Double x:Key="Large">25</system:Double>
+    <system:Double x:Key="XLarge">30</system:Double>
+    <system:Double x:Key="XXLarge">35</system:Double>
+
+    <system:Double x:Key="ToolBarTextWidth">200</system:Double>
+    
+</ResourceDictionary>
